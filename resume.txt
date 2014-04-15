@@ -1,8 +1,6 @@
 madhu
 job 1
 job 2
-<<<<<<< HEAD
 job 3
-=======
 job 4
->>>>>>> 36d7fc8520ac0325471c7a35e44b065f0ccbd730
+
